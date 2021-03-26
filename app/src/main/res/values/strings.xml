@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Daily forecast Application</string>
+    <string name="city_name">City Name</string>
+    <string name="not_accurate_data">This data is not accurate!</string>
+    <string name="something_wrong_happened">Something wrong happened!</string>
+    <string name="retry">RETRY</string>
+</resources>
